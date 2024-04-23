@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hello, I'm Keios, an employee of R&D department.
+
+This Organization will be transfer to TRUE TECH as soon as possible
+
 <!--
 
 **Here are some ideas to get you started:**
