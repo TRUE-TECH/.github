@@ -2,7 +2,7 @@
 
 Hello, I'm Keios, an employee of R&D department.
 
-This Organization will be transfer to TRUE TECH as soon as possible
+This Organization will be transfered to TRUE TECH as soon as possible
 
 <!--
 
